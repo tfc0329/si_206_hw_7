@@ -1,10 +1,10 @@
 # si_206_hw_7
 
-Modify the code in HW6.py.
+Modify the code in HW7.py.
 
 To add this file to the staging area for a commit use:
 
-git add HW6.py
+git add HW7.py
 
 To commit use:
 
